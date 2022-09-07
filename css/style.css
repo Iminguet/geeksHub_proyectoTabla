@@ -1,0 +1,21 @@
+table {
+  margin: 0 auto;
+  border: 5px solid red;
+}
+th {
+  background-color: black;
+  color: wheat;
+  border: 1px solid green;
+}
+
+tr {
+  background-color: bisque;
+  color: blueviolet;
+  text-align: center;
+  border: 1px solid blue;
+}
+
+th,
+td {
+  padding: 0.5rem;
+}
